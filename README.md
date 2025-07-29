@@ -31,5 +31,7 @@ This project is a command-line application developed in Python to help users man
     . No external dependencies
 
   Run the Application
+  
      . bash
+     
      . python tracker.py
