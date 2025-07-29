@@ -25,9 +25,11 @@ This project is a command-line application developed in Python to help users man
 🚀 Getting Started
 
   Prerequisites
+  
     . Python 3.6 or higher
+    
     . No external dependencies
 
   Run the Application
-    bash
-    python tracker.py
+     . bash
+     . python tracker.py
